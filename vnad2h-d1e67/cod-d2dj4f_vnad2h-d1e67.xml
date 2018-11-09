@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Liber naturalis de rebus principalibus naturarum [Alonso Transcription]</title>
+        <author>Petrus Hispanicus</author>
+        <editor>José Higuera</editor>
+        <respStmt>
+          <name>Jeffrey C. Witt</name>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev-master">
+          <title>Liber naturalis de rebus principalibus naturarum [Alonso Transcription]</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-d2dj4f">Alonso Edition</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"> </div>
+    </front>
+    <body>
+      <div xml:id="vnad2h-d1e67">
+        <head xml:id="vnad2h-d1e67-Hd1e102">Liber naturalis de rebus principalibus naturarum [Alonso
+          Transcription]</head>
+        <p xml:id="vnad2h-d1e67-d1e105">Hic est liber naturalis de rebus principalibus naturarum,
+          compositus per magistrum Petrum Yspanum , qui in tres dividitur partes et quelibet pars
+          dividitur in plures; sed primum quod in eo explicatur, est de natura animalis prudentie,
+          secundo de mineralibus, tertio de vegetabilibus secundum naturam.</p>
+        <p xml:id="vnad2h-d1e67-d1e108">In nomine summi et altissimi protectoris qui est altitude et
+          profunditas, omnium factorum fons et origo, omnium miraculorum, cuius potentiam invoco,
+          supplicans suam pietatem cum debita reverentia, ut gratiam ostendere dignetur et suam
+          subiungere beatitudinem in cordibus benigne dignorum et felicitatem ad umbram beatificari
+          dignitatis alme intelligentur illustrari, saporem mellifluum valeant quoque gustare et in
+          gratiam adimplere, ut industria et meis sermonibus scientie ardue naturalis possint
+          iustificari fideles.</p>
+        <p xml:id="vnad2h-d1e67-d1e111">Universorum Deus sive exemplum singularis, conditor
+          primordialis materie in quatuor dirigens elementa creavit celum et terram, et ipsum celum
+          constituit mobile, quod multitudine stellarum immobiliter adornavit . Quedam earum fixe et
+          quedam erratice describuntur , vive quedam dicuntur , septem planete , qui erratici
+          dicuntur eo quod motui semper deputantur ad velocem cursum viriliter firmamenti
+          restaurandi ; et omnes signorum nature virtutes in harum septem naturis et virtutibus
+          includuntur. Deinde terram constituit in medium celi ad similitudinem superiores spere
+          rotunde immobilem at quietam . Consequenter vero omnes criaturas igneas, aereas, aquaticas
+          et terreas solo officio verbi breviter (?) concreavit .</p>
+        <p xml:id="vnad2h-d1e67-d1e114">Quelibet earum ex dignis dotavit virtutibus sigillatim; sed
+          inter creaturas digniorem humanam constituens creaturam ex limo creavit, quam discrete
+          anime, spiritus quoque subtitlis prudentia rationabiliter ornavit et sub ipsius imperio
+          omnia mancipavit. Ex cuius latere mulierem formavit ad societatem ipsius ex quibus multi
+          filii nati sunt multiplicantes idem voluntate .</p>
+        <p xml:id="vnad2h-d1e67-d1e118">Creavit enim ex semine masculino in visceribus feminis
+          secundum dispositionem et constellationem , dico suis temporibus operantur. Nam in fetu
+          primo mense, cum semen in matrice conceptum est, saturnus operatur congelando et
+          constringendo sua frigiditate et siccitate [W41v] ipsam materiam massam unam. Secundo
+          mense iupiter sua caliditate et huminitate dirigendo et in quamdam massam carneam.</p>
+        <p xml:id="vnad2h-d1e67-d1e121">Tertio mense operatur mars sua caliditate et siccitate; et
+          dividens et coequestrans ipsam massam in membra disponit. Quarto mense operatur sol ut
+          dominus planetarum et mittens spiritus; sic incipit viva creatura. Quinto mense mercurius
+          operatur qui facit spiracula et foramina. Sexto mense venus ordinat et disponit ac etiam
+          oculos et testiculos et alia similia .</p>
+        <p xml:id="vnad2h-d1e67-d1e124">Septimo mense luna sua frigiditate et humiditate ad
+          expellendum fetum laborat, et tunc si nascitur vivere potest; si vero non nascitur,
+          debilitatur. Octavo mense iterum saturnus incipit operari constrigendo fetum in matrice et
+          tunc si nascitur, vivere non postest. Nono mense iupiter operatur sua caliditate et
+          humiditate; nutriendo redit ipsum fetum . Sic completo mense ipsam creaturam provocat ad
+          vitam secundum dispositionem elementorum.</p>
+        <p xml:id="vnad2h-d1e67-d1e127">Dico quod ista talis forma terrea ab aqua tribus mensibus in
+          matrice nutritur et ab igne totidem creatur fovetur. Secundum vero dispositionem locorum
+          dico quod receptacula seminis in matrice sunt septem: tria a parte dextra masculina et
+          tria a parte sinistra femenina, unum vero tenens utrumque sexum in medio permanet. Quorum
+          de illis namque dextris primum regitur a saturno, secundum a iove et tertium a marte; de
+          aliis vero sinistris primum regitur a venere; secundum a mercurio, tertium a luna. Medium
+          vero atribuitur soli et ideo dico ipsum esse masculum aliquando feminam aspiciens , et
+          aliquando accidit hermofroditam creari et hoc secundum dispositinem seminis [W42r] ; quia,
+          si virtus masculina superat, generatur natura femenina; et si pariter agunt virtutes,
+          hermafrodita generatur. Et etiam multiocens accidit quod neuter corrumpitur; que si tunc
+          in eo spermate conciperetur, leprosam facient creaturam.</p>
+        <p xml:id="vnad2h-d1e67-d1e130">In ortu vero eorum naturas recipiunt a superioribus
+          eorumdem, aliquando ab uno, aliquando ab alio et aliquando a pluribus. Quia sicut septem
+          sunt planete. Et quelibet planeta dominatur in prima hora ipsius diei, secundus planeta
+          procedit secundam horam et sic deinceps. Numero vero completo, primus planeta iterum
+          incipit dominari et sic semper planeta in octava hora ipsius refertur; et idem , sicut,
+          ante, procedunt plenate die ac nocte. Unde nulla creatura creari potest, nisi sub dominio
+          quinte essentie omnia creantur. Aliquando sub saturno , aliquando sib venere, aliquando
+          sub mercurio, aliquando sub luna, aliquando sub duobus vel pluribus secundum coiunctionem
+          earum.</p>
+        <p xml:id="vnad2h-d1e67-d1e133">Adducuntur etiam ex utero matris quatuor sapores, quatuor
+          odores, et duos sexus, que omnia superna potentia ac constellationibus habent , quia sexus
+          et elementa procedunt a quinta essentia . Humores vero, complexiones, colores, sapores
+          procedunt ab elementis, quorum partes ab invicem separantur, quantum ad, signorum aspectu,
+          virtute planetarum dominantium horam oriri ac etiam punctum, a quibus paucitas qualitatis
+          perficitur nutriendo et creatura virente inducit naturam secundum dispositionem eorum et
+          sic plures ex utero uno filii erunt diversi propter separationem.</p>
+        <p xml:id="vnad2h-d1e67-d1e137">Separantur dico humores qui sunt particulares [W42v]. Et sic
+          humores, eque et alia derivativa, ab elementis qualiter a planetis procedunt, dictum est
+          superius. Amodo dicendum est de elementis qualiter ab eisdem regantur, et ab ipsis
+          elementis procedunt. Quatuor sunt gradus perfectionis mixtorum ex elementis corporum seu
+          rerum: Primus namque gradus perfectionis est corporum originalium sive mineralium, quorum
+          perfectio est esse, terre respondens, quia eorum regimen principale est a saturno.
+          Secundus gradus perfectionis est plantarum seu vegetabilium quorum perfectio est vegetare,
+          idest, nutrire et augmentare, aque respondens, quia eorum regimen principale est a
+          mercurio. Tertius gradus perfectionis est animalium prudentium , quorum perfectio est
+          vegetare, sentire et movere, aeri respondens , quia eorum regimen principale est iove.
+          Quartus gradus perfectionis est animalium prudentium , quorum perfectio est vegetare,
+          sentire, movere, intelligere, rationari, igni respondens, quia eorum regimen principale
+          est a sole secundum naturam. Ergo bene est ut dixi. Omnes enim essentie naturaliter ad
+          invicem colligantur in quinta essentie [que] omnia vincit et superat.</p>
+        <p xml:id="vnad2h-d1e67-d1e140">Terra vero est corpus aque et aqua spiritus [W43r] terre,
+          quia est corpus aeris et aer spiritus aquae. Aer est corpus ignis et ignis est spiritus
+          aeris. Ignis quoque est corpus solis et sol est spiritus ignis. Terra in sua natura est
+          frigida et sicca; aqua in sua natura est frigida et humida; Aer in sua natura est calidus
+          et humidus; ignis in sua natura est calidus et siccus.</p>
+        <p xml:id="vnad2h-d1e67-d1e143">Terra quoque est genetrix elementorum, pariens sicca
+          remanet; aqua habet frigiditatem a terra et humiditatem ab aere; aere humiditatem ab aqua
+          et caliditatem ab igni ; ignis habet caliditatem ab aere et siccitatem a terra. Et quia
+          onme corpus indiget spiritu et spiritus corpore, ignis recipit influentiam a sole et aere;
+          aer ab igne et aqua; et aqua ab aere et terra. Terra, inquit, es mater omnium elementorum,
+          que de terra procedunt et a terra revertentur et breviter loquendo omnem essentie sunt
+          unanimiter a natura connexe et unaqueque retinet unamquamque. Tamen quinta essentia omnia
+          vincit et superat . Et sic omnes virtutes derivantur ab eis, et faciebus creaturarum
+          manifeste apparet ut ait Achandreas (?) in libro De naturis planetarum.</p>
+        <p xml:id="vnad2h-d1e67-d1e146">Ego enim indicabo manifestum optime ocuultum cognoscitur.
+          Dictum est qualiter elementa a planetis et ab ipsis planetis humores procedunt. Amodo
+          dicendum est de essentia quinta qualiter omnia superat et humores sequestrat. Narravi
+          insuper ex largitate profundorum ubi de sole parumper notavi. Nunc autem solvo quam melius
+          potero explicare: Sol spiritus corpus, ignis corpus est splendoris et, ut rex planctarum ,
+          in medio permanens eorum, dat omnibus influentiam ( sed post revolutionem inveniendo se in
+          primo gradu arietis, et zodiacus gaudet tunc de eo et omnes creature virtutes recipiunt
+          plenius a constellationibus eorundem) dat, dico, influentiam ceteris planetis et recipit
+          velud lumen in speculatrice [W43v] lanterna splendore penetrante vitreata sportula , quod
+          illuminat circumquaque, cum veo a spiraculis illustratur. Lux autem augmentat sicut radius
+          in ense, que removetur et clarius circum se ipsum at alios et lucet per universum. Ergo
+          bene videtur quod ipse sit spiritus omnium planetarum et sub aliarum omnibus partibus
+          essentiarum maior et manifestior.</p>
+        <p xml:id="vnad2h-d1e67-d1e149">Prima corpora celestia sunt nobiliora terrenorum et ideo
+          omne rarum dicitur a quinta essentia [que] superat omnia, et naturas inducit in corporibus
+          determinatis, eorum naturas quidem corporum seu rerum dico sub forma superiorum
+          cosnoscere. Quia corpus saturninum est , ut dicunt sapientes, et in manifiesto terreum, in
+          ocuulto aereum, in uno latere aqueum et in altero latere igneum. Corpus iovinale est in
+          manifesto aqueum, in occulto igneum, in uno latere aereum in alio latere terrenum.
+          Martiale corpus est in manifesto ingneum, in occulto aqueum, in uno latere terrenum et in
+          alio latere aereum. Solare corpus est in manifesto aereum, in occulto terreum et in uno
+          latere igneum, in alio latere aqueum. Venerale corpus est in manifesto igneum et in
+          occulto aqueum, in uno latere aereum et in alio terrenum. Lunare corpus est in manifesto
+          terreum et in occulto aereum, in uno latere aqueum et in alio igneum.</p>
+        <p xml:id="vnad2h-d1e67-d1e152">Terra ex se generat melancoliam, aqua ex se generat flegma,
+          Aer ex se generat sanguinem et ignis se generat coleram. Separantur itaque humores in se
+          ipsos ad visum, quia melancolia aliquando est sub palida nigra, ut in corpore saturnino
+          manifeste apparet et hoc accidit virtute saturni a terra et aqua, sed quia virtus terre
+          superat in maiori gradu, diccitur esse de natura terrea .</p>
+        <p xml:id="vnad2h-d1e67-d1e156">Corpus terra aliquando est nigrum et album tendens, ut in
+          corpore lunari manifeste apparet et hoc accidit virtute lune ab illa parte qua tenet
+          aquam, sed quia virtus terre superat, dicitur esse corpus tale natura terrea. Et [W 44r]
+          aliquando nigra, ut in copore martiali apparet et hoc accidit virtute martis ab illa parte
+          qua terram tenet ab igne, sed quia virtus ignis superat dicitur esse corpus tale de natura
+          ignea.</p>
+        <p xml:id="vnad2h-d1e67-d1e159">Flegma est aliquando album, ut in corpore mercuriali
+          manifeste apparet, et hoc accidit virtute mercuriali manifeste apparet, et hoc accidit
+          virtute mercurii ab illa parte qua tenet aquam ab aere; sed quia virtus aquae superat,
+          dicitur esse tale corpus de natura aquea. Aliquando inter album et palidum, ut in corpore
+          lunari manifeste apparet, et hoc accidit virtute lune a parte qua tenet aquam a terra; et
+          quia virtus terre parum superat, tale corpus dicitur esse de natura terrea. Et aliquando
+          subatrum , ut in corpore ioviali manifeste apparet, et hoc accidit virtute iovis ab illa
+          parte qua tenet aquam ab aere; sed quia virtus aque superat, dicitur tale corpus de natura
+          aquea.</p>
+        <p xml:id="vnad2h-d1e67-d1e162">Sanguis est aliquando rubeus, ut in corpore venerali
+          manifeste apparet , et hoc accidit virtute veneris ab illa parte qua tenet aerem ab igne;
+          et quia virtus ignis superat, dicitur tale corpus de natura ignea. Aliquando croceus, ut
+          in corpore solari manifeste apparet, et hoc accidit virtute solis a partibus illis quibus
+          aerem tenet ab igne et aqua; et quia equate sunt in eo virtutes, dicitur esse tale corpus
+          de natura aeris. Aliquando nigra, ut in corpore martiali manifeste apparet, et hoc accidit
+          ab illa parte qua ignem tenet terra; sed quia virtus ignis superat, dicitur tale corpus
+          esse de natura ignea.</p>
+        <p xml:id="vnad2h-d1e67-d1e165">[44v] Aliquociesque evenit quod in faciebus creaturarum
+          manifestantur due vel plures, scilicet ex istis particulis nominatis et hoc accidit
+          coniunctionibus planetarum in iudicatione quorum prudentia prudenter prevaleat . Dictum
+          quoque est qualiter quinta essentia omnia superat et sequestrat.</p>
+        <p xml:id="vnad2h-d1e67-d1e168">Amodo dicendum est de bonitate et malitia corporis, qualiter
+          a coniunctione essentia et dominatus ipsius proveniunt . Iudicare quidem bonitatem et
+          malitiam corporum videtur ex improviso quase impossibile esse; attamen largo modo dico
+          quod, sicut dispositio humorum currit secundum dispositionem planetarum, ita dispositio
+          humorum currit secundum dispositionem elementorum et secundum dispositionem planetarum.
+          Similiter, quia sic Deus formavit hominem as comparartionem maioris mundi, et ideo dicitur
+          minor mundus ac etiam microcosmus.</p>
+        <p xml:id="vnad2h-d1e67-d1e171">Unde omnia corpora dico ad bonum et ad malum esse disposita
+          et corpora bonorum planetarum virtute bonorum humorum ingredientum spiritualia membra sive
+          principalia confirmantur ad bonum. Malitia vero bonorum humorum [virtute] malorum
+          ingredientium [spiritualia membra] sive principalia confirmantur. Corpora vero malorum
+          planetarum malitia malorum humorum ingredientium spiritualia membra sive principalia
+          confirmantur, alteri disponuntur ad bonum . Proptera ubi boni humores superant, potius
+          generant bonum quam malum; ubi vero mali humores superant, potius generant malum quam
+          bonum. Humores enim superantes semper in faciebus manifeste apparent secundum
+          dispositionem superantem .</p>
+        <p xml:id="vnad2h-d1e67-d1e175">Melancolia ex sua frigiditate et siccitate generat iram, ira
+          generat invidiam, invidia generat ypocrisiam, ypocrisia generat mendacium, mendacium
+          generat odium , odium generat malam cogitationem, mala cogitatio perditionem, perditio
+          bellum, bella malam conversationem, mala conversatio verecundiam, verecundia malam famam.
+          Mala fama destructionem et etiam vite diminutionem [45r] ; et sic melancolia a saturni
+          malitia omnia mala descendunt.</p>
+        <p xml:id="vnad2h-d1e67-d1e178">Flegma, quod est latus iuxta melancoliam tenens medium inter
+          melancoliam et sanguinem, participat eorum natura et generat bonam et malam naturam ,
+          bonam recipit a sanguine, malam vero a melancolia; et sic aliquando bonum, aliquando malum
+          designat, sed malitia martis potius ad malum quam bonum tendit.</p>
+        <p xml:id="vnad2h-d1e67-d1e181">Colera vero que est latus iuxta sanguinem, tenens medium
+          inter sanguinem et melancoliam, participat eorum naturas et generat bonum et malum,
+          naturam bonam recipit a sanguine, malam a melancolia; et sic aliquando bonum, aliquando
+          malum designat sed virtute solis potius ad bonum quam ad malum tendit.</p>
+        <p xml:id="vnad2h-d1e67-d1e184">De eorum particulis universaliter dico secundum qualites
+          constellationum a quibus proveniunt manifesta, ad aspectum signorum iudicande sunt nature
+          particularium dictarum tamen semper observatis cautelis nature. Cum occultum saturni
+          teneatur a sole, latus iuxta eum mercurio et iove, et latus iuxta solem a marte et venere.
+          Occultum iovis a marte et venere, latus iuxta eum a sole et latus iuxta martem et venerem
+          a saturno et luna. Occultum martis a marte et mercurio, latus iuxta eum [a] saturno et
+          luna et latus iuxta iovem et mercurium a sole. Occultum solis a saturno et luna, latus
+          iuxta eum a marte et venere et latus iuxta saturnum et lunam a iove et mercurio. Occultum
+          veneris a mercurio et iove, latus iuxta eum a sole et latus iuxta mercurium et iovem a
+          saturno et luna. Occultum mercurii a venere et marte, latus iuxta eum a sole et latus
+          iuxta venerem et martem a saturno et luna [45v] . Occultum vero lune a sole, latus iuxta
+          eum a mercurio et iove et latus iuxta solem a venere et marte.</p>
+        <p xml:id="vnad2h-d1e67-d1e187">Igitur, quamvis vero impossibile videatur esse, debent tamen
+          corpora iudicare secundum superiorem naturam. Cum vero accidit nature duorum superiorum
+          vel plurium in faciebus provenire , secundum qualitatem et qauntitatem substantie
+          iudicentur; et cum iudiceuntur manifestum petatur ocuultum optime iudicari. Dictum est
+          bonitate et malitia...</p>
+      </div>
+    </body>
+  </text>
+</TEI>
